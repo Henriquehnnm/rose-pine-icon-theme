@@ -26,9 +26,9 @@
 
 **Rosé Pine Moon**
 
-![Rosé Pine Moon](screenshot/moon.png)
+![Rosé Pine Moon](screenshots/moon.png)
 
 **Rosé Pine Dawn**
 
-![Rosé Pine Dawn](screenshot/down.png)
+![Rosé Pine Dawn](screenshots/dawn.png)
 
